@@ -7,16 +7,13 @@ A modular Python application for capturing screenshots of websites with both GUI
 
 ## Features
 
-- **Automatic Setup**: Creates virtual environment and installs dependencies automatically
-- **User-Friendly GUI**: Built with Tkinter for easy interaction
-- **Flexible Screenshot Options**:
+- **Lots of Options**:
   - Viewport-only or full-page capture
   - Customizable viewport size
   - Zoom level adjustment
   - PNG or JPEG output with quality control
 - **Batch Processing**: Process multiple URLs with configurable parallel threads
-- **Settings Persistence**: Remembers your preferences between sessions
-- **Robust Error Handling**: Continues processing even if individual URLs fail
+- **Error Handling**: Continues processing even if individual URLs fail
 
 [![screenshot.png](https://i.postimg.cc/j2xVRWyM/screenshot.png)](https://postimg.cc/N9zC4jJX)
 
