@@ -18,6 +18,8 @@ A modular Python application for capturing screenshots of websites with both GUI
 - **Settings Persistence**: Remembers your preferences between sessions
 - **Robust Error Handling**: Continues processing even if individual URLs fail
 
+[![screenshot.png](https://i.postimg.cc/j2xVRWyM/screenshot.png)](https://postimg.cc/N9zC4jJX)
+
 ## Installation
 
 ### Method 1: Direct Run (Recommended)
