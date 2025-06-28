@@ -1,0 +1,17 @@
+siteseeing/
+├── main.py
+├── pyproject.toml
+├── README.md
+├── requirements.txt
+├── webshot/
+│   ├── __init__.py
+│   ├── app.py
+│   ├── gui.py
+│   ├── browser.py
+│   ├── config.py
+│   ├── queue_manager.py
+│   └── utils.py
+└── tests/
+    ├── __init__.py
+    ├── test_config.py
+    └── test_queue.py
