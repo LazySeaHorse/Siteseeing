@@ -3,7 +3,7 @@
 A modular Python application for capturing screenshots of websites with both GUI and batch processing support.
 
 > [!NOTE]
-> Coded to life in less than 10 minutes with some help from Claude 4 Opus
+> Coded to life with some help from Claude 4 Opus
 
 ## Features
 
