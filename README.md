@@ -35,7 +35,7 @@ A modular Python application for capturing screenshots of websites with both GUI
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/siteseeing.git
+git clone https://github.com/LazySeaHorse/Siteseeing.git
 cd siteseeing
 
 # Install in development mode
